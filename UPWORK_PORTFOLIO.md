@@ -1,19 +1,19 @@
-# Upwork Portföy Metni
+# 
 
 ---
 
-## Proje Başlığı (Portfolio Item Title)
+##
 **AI Customer Support Chatbot — FastAPI + Groq (LLaMA 3.3-70B) + Streaming**
 
 ---
 
-## Kısa Açıklama (Short Description — Upwork Overview)
+## Short Description — Upwork Overview
 
 Built a production-ready AI customer support chatbot for a SaaS company using FastAPI, Groq's LLaMA 3.3-70B model, and vanilla JavaScript. The system features real-time token streaming via Server-Sent Events, full conversation memory, and bilingual support (English/Turkish). The bot is customized with a detailed system prompt representing the company's product catalog, pricing, and support policies.
 
 ---
 
-## Detaylı Proje Açıklaması (Long Description — Upwork Project Detail)
+## Long Description — Upwork Project Detail
 
 **Project Overview:**
 Designed and developed a full-stack AI-powered customer support chatbot from scratch — backend API, streaming logic, and a polished chat UI — ready for production deployment.
@@ -37,7 +37,7 @@ Designed and developed a full-stack AI-powered customer support chatbot from scr
 
 ---
 
-## Skills Tags (Upwork'te ekle)
+## Skills Tags
 - Python
 - FastAPI
 - REST API Development
