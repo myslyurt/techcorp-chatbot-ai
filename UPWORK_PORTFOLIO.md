@@ -50,6 +50,6 @@ Designed and developed a full-stack AI-powered customer support chatbot from scr
 
 ---
 
-## Upwork Profil Bio Önerisi
+## Upwork bio
 
 > I build custom AI chatbots and LLM-powered tools for businesses using Python, FastAPI, and leading AI APIs (Groq, OpenAI, Anthropic). My focus is on fast, production-ready solutions with clean code and real streaming interfaces. Available for chatbot development, AI integration, and API projects.
