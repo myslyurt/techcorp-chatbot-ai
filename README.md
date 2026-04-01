@@ -180,4 +180,4 @@ MIT — free to use, modify, and deploy.
 
 ## 🤝 Contact
 
-Built by [Your Name] — available for freelance AI/chatbot projects on [Upwork](https://upwork.com).
+Built by [Murat Yesilyurt] — available for freelance AI/chatbot projects on [Upwork](https://www.upwork.com/freelancers/~01e45f433b6bc60914).
